@@ -7,7 +7,7 @@ Index Of fantasyui-com Repositories on github
 
 ## CLI
 - csshue
-- uses squirm for crawling colors in css
+  - uses squirm for crawling colors in css
 
 ## CSS
 
