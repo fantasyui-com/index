@@ -276,6 +276,7 @@
 - [kosmos](https://github.com/fantasyui-com/kosmos) - A poem about learning and growing up. 
 - [limerick](https://github.com/fantasyui-com/limerick) - World Poetry Project. 
 - [loneliness](https://github.com/fantasyui-com/loneliness) - a poem about the corrosiveness of loneliness. 
+- [poems](https://github.com/fantasyui-com/poems) - Poetry Booklet Build System. 
 
 ## Proxy
 - [message-server](https://github.com/fantasyui-com/message-server) - Beautiful, minimalist stateful server for converting internet into a list of messages with title, body, comments, and read/unread states. 
@@ -315,9 +316,6 @@
 
 ## Show and Tell
 - [photograph](https://github.com/fantasyui-com/photograph) - Wrap web application UI in a pretty frame, prior to screen capture and posting to show and tell sites. 
-
-## Poetry
-- [poems](https://github.com/fantasyui-com/poems) - Poetry Booklet Build System. 
 
 ## JSON
 - [product-catalog](https://github.com/fantasyui-com/product-catalog) - Efficient lodash backed, package.json formatted digital downloads product-catalog with minimal requirements and maintenance. 
