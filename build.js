@@ -29,7 +29,7 @@ request({url: program.repos, headers: {'User-Agent': 'Mozilla/3.0 (compatible; M
 
 function report(){
   console.log(head);
-  Object.keys(categories).forEach(function(category){
+  Object.keys(categories).sort().forEach(function(category){
     let list = categories[category]
     console.log(`## ${category}`)
     list.forEach(function(link){
