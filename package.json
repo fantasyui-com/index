@@ -20,6 +20,7 @@
   "homepage": "https://github.com/fantasyui-com/index#readme",
   "dependencies": {
     "commander": "^2.15.1",
+    "lodash.kebabcase": "^4.1.1",
     "request": "^2.87.0"
   }
 }
