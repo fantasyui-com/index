@@ -4,6 +4,7 @@
   "description": "Index Of fantasyui-com Repositories on github",
   "main": "index.js",
   "scripts": {
+    "build": "./build.js > README.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
