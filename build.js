@@ -34,9 +34,8 @@ function report(){
   Object.keys(categories).sort().forEach(function(category){
     console.log(`- [${category}](#${kebab(category)})`)
   });
-  console.log(`- [${category}](#${kebab('Index')})`)
-
-  console.log('')
+  console.log(`- [Index](#${kebab('Index')})`)
+  console.log('');
 
   Object.keys(categories).sort().forEach(function(category){
     let list = categories[category]
