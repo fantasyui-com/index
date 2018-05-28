@@ -1,6 +1,7 @@
 # Index Of fantasyui-com Repositories
 
 ## Table of Contents
+- [Advanced Research](#advanced-research)
 - [Algorithm](#algorithm)
 - [Analysis](#analysis)
 - [App Store](#app-store)
@@ -48,6 +49,7 @@
 - [Server](#server)
 - [Shell](#shell)
 - [Show and Tell](#show-and-tell)
+- [Smart CSS](#smart-css)
 - [Sort](#sort)
 - [StackScript](#stack-script)
 - [Standard Library](#standard-library)
@@ -59,6 +61,10 @@
 - [Web Design](#web-design)
 - [WikiWiki](#wiki-wiki)
 - [Index](#index)
+
+## Advanced Research
+- [cgui](https://github.com/fantasyui-com/cgui) - Conversational Graphic User Interface. 
+- [recombinator](https://github.com/fantasyui-com/recombinator) - CSS recombination system. 
 
 ## Algorithm
 - [aquarium](https://github.com/fantasyui-com/aquarium) - A simple proportional value distribution library aimed at performing probability driven experiments in an enclosed virtual space by means of virtual objects and user defined uncertainty. 
@@ -129,10 +135,13 @@
 - [bootstrap-containers](https://github.com/fantasyui-com/bootstrap-containers) - Bootstrap Container Components. 
 - [bootstrap-electron](https://github.com/fantasyui-com/bootstrap-electron) - Bootstrap based Electron Application. 
 - [bootstrap-faker](https://github.com/fantasyui-com/bootstrap-faker) - Bootstrap Faker generates massive amounts of useful randomized bootstrap related data such as card styles, warning labels, button types, etc. 
+- [bootstrap-styleguide](https://github.com/fantasyui-com/bootstrap-styleguide) - Bootstrap Styleguide generator. Create bootstrap style guides by scraping documentation. 
 - [card-generator](https://github.com/fantasyui-com/card-generator) - Bootstrap Card Generator. 
+- [container-generator](https://github.com/fantasyui-com/container-generator) - Bootstrap Container Generator. 
 
 ## Bootstrap Analysis
 - [bootstrap-monitor](https://github.com/fantasyui-com/bootstrap-monitor) - Bootstrap 4 monitoring system designed to help tracking class changes. 
+- [bootstrap-styleguide](https://github.com/fantasyui-com/bootstrap-styleguide) - Bootstrap Styleguide generator. Create bootstrap style guides by scraping documentation. 
 
 ## Business
 - [catalog-server](https://github.com/fantasyui-com/catalog-server) - Commercial product management server. 
@@ -142,6 +151,7 @@
 - [vicious](https://github.com/fantasyui-com/vicious) - Business in a box server. Inspired by google result pages driven via payments by stripe. 
 
 ## CLI
+- [bootstrap-styleguide](https://github.com/fantasyui-com/bootstrap-styleguide) - Bootstrap Styleguide generator. Create bootstrap style guides by scraping documentation. 
 - [changeline](https://github.com/fantasyui-com/changeline) - Search and replace in lines of files across directories. 
 - [csshue](https://github.com/fantasyui-com/csshue) - CLI utility to uniformly rotate hue of colors in a css file. 
 - [epx](https://github.com/fantasyui-com/epx) - Electron Package Execute (npx but for electron apps). 
@@ -151,6 +161,7 @@
 - [line-filter](https://github.com/fantasyui-com/line-filter) - Command that controls echoing of lines from source files based on whitelists and blacklists. 
 - [list-html-classes](https://github.com/fantasyui-com/list-html-classes) - Node npm module used to parse HTML string and list the CSS classes. 
 - [ls-css](https://github.com/fantasyui-com/ls-css) - List information about CSS file. 
+- [recombinator](https://github.com/fantasyui-com/recombinator) - CSS recombination system. 
 - [revolutionize](https://github.com/fantasyui-com/revolutionize) - PostCSS based web application skinning strategy. 
 - [theft](https://github.com/fantasyui-com/theft) - Means of transporting CSS rule declarations from one file to another. 
 
@@ -165,6 +176,7 @@
 - [list-html-classes](https://github.com/fantasyui-com/list-html-classes) - Node npm module used to parse HTML string and list the CSS classes. 
 - [ls-css](https://github.com/fantasyui-com/ls-css) - List information about CSS file. 
 - [osmose](https://github.com/fantasyui-com/osmose) - Electron application for easy color balancing and filtering. 
+- [recombinator](https://github.com/fantasyui-com/recombinator) - CSS recombination system. 
 - [revolutionize](https://github.com/fantasyui-com/revolutionize) - PostCSS based web application skinning strategy. 
 - [select-declarations](https://github.com/fantasyui-com/select-declarations) - Select contents of rule declarations via CSS selectors. 
 - [skins](https://github.com/fantasyui-com/skins) - Library of Industry Standard CSS Designs. 
@@ -178,6 +190,7 @@
 
 ## Code Generator
 - [card-generator](https://github.com/fantasyui-com/card-generator) - Bootstrap Card Generator. 
+- [container-generator](https://github.com/fantasyui-com/container-generator) - Bootstrap Container Generator. 
 - [spqr](https://github.com/fantasyui-com/spqr) - Webpage Design Generator. 
 
 ## Crypto
@@ -345,6 +358,9 @@
 ## Show and Tell
 - [photograph](https://github.com/fantasyui-com/photograph) - Wrap web application UI in a pretty frame, prior to screen capture and posting to show and tell sites. 
 
+## Smart CSS
+- [cgui](https://github.com/fantasyui-com/cgui) - Conversational Graphic User Interface. 
+
 ## Sort
 - [natural-sort-by-key](https://github.com/fantasyui-com/natural-sort-by-key) - Sort array of objects by natural, human, alphanumeric order. Natural sort order is an ordering of strings in alphabetical order, except that multi-digit numbers are ordered as a single character. 
 
@@ -357,6 +373,7 @@
 ## UI
 - [card-generator](https://github.com/fantasyui-com/card-generator) - Bootstrap Card Generator. 
 - [cgui](https://github.com/fantasyui-com/cgui) - Conversational Graphic User Interface. 
+- [container-generator](https://github.com/fantasyui-com/container-generator) - Bootstrap Container Generator. 
 - [message-server](https://github.com/fantasyui-com/message-server) - Beautiful, minimalist stateful server for converting internet into a list of messages with title, body, comments, and read/unread states. 
 - [skins](https://github.com/fantasyui-com/skins) - Library of Industry Standard CSS Designs. 
 - [spqr](https://github.com/fantasyui-com/spqr) - Webpage Design Generator. 
@@ -412,6 +429,7 @@
 - [bootstrap-electron](https://github.com/fantasyui-com/bootstrap-electron) - Bootstrap based Electron Application. 
 - [bootstrap-faker](https://github.com/fantasyui-com/bootstrap-faker) - Bootstrap Faker generates massive amounts of useful randomized bootstrap related data such as card styles, warning labels, button types, etc. 
 - [bootstrap-monitor](https://github.com/fantasyui-com/bootstrap-monitor) - Bootstrap 4 monitoring system designed to help tracking class changes. 
+- [bootstrap-styleguide](https://github.com/fantasyui-com/bootstrap-styleguide) - Bootstrap Styleguide generator. Create bootstrap style guides by scraping documentation. 
 - [botnet](https://github.com/fantasyui-com/botnet) - Electron based communication program driven by robotic network entities inspired by email. 
 - [business-software](https://github.com/fantasyui-com/business-software) - Open source app store for Business Managers. 
 - [card-generator](https://github.com/fantasyui-com/card-generator) - Bootstrap Card Generator. 
@@ -424,6 +442,7 @@
 - [civilized](https://github.com/fantasyui-com/civilized) - Means of programming without learning a programming language. 
 - [color-schemes](https://github.com/fantasyui-com/color-schemes) - Color Scheme Explorer (GUI Application). 
 - [commode](https://github.com/fantasyui-com/commode) - Electron-Vue based, iTunes like UI, for file tagging, restructuring, processing, and general management. 
+- [container-generator](https://github.com/fantasyui-com/container-generator) - Bootstrap Container Generator. 
 - [conversational-ui](https://github.com/fantasyui-com/conversational-ui) - XRegExp based natural language interface to functions. 
 - [cornwall](https://github.com/fantasyui-com/cornwall) - Electron-based PixiJS Video Recording Environment. 
 - [csshue](https://github.com/fantasyui-com/csshue) - CLI utility to uniformly rotate hue of colors in a css file. 
@@ -469,6 +488,7 @@
 - [poems](https://github.com/fantasyui-com/poems) - Poetry Booklet Build System. 
 - [product-catalog](https://github.com/fantasyui-com/product-catalog) - Efficient lodash backed, package.json formatted digital downloads product-catalog with minimal requirements and maintenance. 
 - [readme-editor](https://github.com/fantasyui-com/readme-editor) - Super simple readme editor (app-store example package). 
+- [recombinator](https://github.com/fantasyui-com/recombinator) - CSS recombination system. 
 - [reproduction](https://github.com/fantasyui-com/reproduction) - Object oriented world of interactive things. 
 - [revolutionize](https://github.com/fantasyui-com/revolutionize) - PostCSS based web application skinning strategy. 
 - [select-declarations](https://github.com/fantasyui-com/select-declarations) - Select contents of rule declarations via CSS selectors. 
