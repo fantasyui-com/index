@@ -36,6 +36,7 @@
 - [Library](#library)
 - [MUD](#mud)
 - [Multiprocess](#multiprocess)
+- [Multiprocess Database](#multiprocess-database)
 - [Music](#music)
 - [Network](#network)
 - [Node](#node)
@@ -153,6 +154,7 @@
 ## CLI
 - [bootstrap-styleguide](https://github.com/fantasyui-com/bootstrap-styleguide) - Bootstrap Styleguide generator. Create bootstrap style guides by scraping documentation. 
 - [changeline](https://github.com/fantasyui-com/changeline) - Search and replace in lines of files across directories. 
+- [cmo](https://github.com/fantasyui-com/cmo) - Utility used to change color model in a Cascading Stylesheet 
 - [csshue](https://github.com/fantasyui-com/csshue) - CLI utility to uniformly rotate hue of colors in a css file. 
 - [epx](https://github.com/fantasyui-com/epx) - Electron Package Execute (npx but for electron apps). 
 - [illustrator](https://github.com/fantasyui-com/illustrator) - Command line tool to extract drawing reference from a photo and create a pdf formatted drawing reference booklet. A tool for artists of all ages. 
@@ -168,6 +170,7 @@
 ## CSS
 - [aquarium](https://github.com/fantasyui-com/aquarium) - A simple proportional value distribution library aimed at performing probability driven experiments in an enclosed virtual space by means of virtual objects and user defined uncertainty. 
 - [cgui](https://github.com/fantasyui-com/cgui) - Conversational Graphic User Interface. 
+- [cmo](https://github.com/fantasyui-com/cmo) - Utility used to change color model in a Cascading Stylesheet 
 - [csshue](https://github.com/fantasyui-com/csshue) - CLI utility to uniformly rotate hue of colors in a css file. 
 - [decrement](https://github.com/fantasyui-com/decrement) - Auto decrement value at preset rate. 
 - [diff-css](https://github.com/fantasyui-com/diff-css) - Command to compare two CSS files and list changes. 
@@ -299,6 +302,11 @@
 
 ## Multiprocess
 - [multiprocess-store](https://github.com/fantasyui-com/multiprocess-store) - ES6-and-beyond multiprocess-safe file-system-based object-store. 
+- [und](https://github.com/fantasyui-com/und) - Multiprocess safe file save. Don't just save files, that will cause errors. Rather, create a directory named after the file, and store UUID named writes within it. 
+
+## Multiprocess Database
+- [multiprocess-store](https://github.com/fantasyui-com/multiprocess-store) - ES6-and-beyond multiprocess-safe file-system-based object-store. 
+- [und](https://github.com/fantasyui-com/und) - Multiprocess safe file save. Don't just save files, that will cause errors. Rather, create a directory named after the file, and store UUID named writes within it. 
 
 ## Music
 - [beatnik](https://github.com/fantasyui-com/beatnik) - Flexible Musical Beat Stream Generator. 
@@ -416,6 +424,7 @@
 - [application-installer](https://github.com/fantasyui-com/application-installer) - Quickly install npm modules and launch them in electron. 
 - [application-launcher](https://github.com/fantasyui-com/application-launcher) - Easily install and launch electron applications from npm. Just set your electron application npm-name in configuration.json and ship the zips (Linux, Mac, Win). Launcher (which is electron+npm) will keep installing the latest version of your module each time it is executed. 
 - [aquarium](https://github.com/fantasyui-com/aquarium) - A simple proportional value distribution library aimed at performing probability driven experiments in an enclosed virtual space by means of virtual objects and user defined uncertainty. 
+- [awesome-background](https://github.com/fantasyui-com/awesome-background) - Beautiful, awesome and lightweight webpage backgrounds.
 - [awesome-gui](https://github.com/fantasyui-com/awesome-gui) - Awesome list of GUI concepts. 
 - [awesome-http](https://github.com/fantasyui-com/awesome-http) - Awesome HTTP. 
 - [awesome-ideas](https://github.com/fantasyui-com/awesome-ideas) - Awesome programming ideas and inspiration from all around the world of languages and patterns. 
@@ -440,6 +449,7 @@
 - [changeline](https://github.com/fantasyui-com/changeline) - Search and replace in lines of files across directories. 
 - [chub](https://github.com/fantasyui-com/chub) - Crate subscription, management and shipping business in a box. 
 - [civilized](https://github.com/fantasyui-com/civilized) - Means of programming without learning a programming language. 
+- [cmo](https://github.com/fantasyui-com/cmo) - Utility used to change color model in a Cascading Stylesheet 
 - [color-schemes](https://github.com/fantasyui-com/color-schemes) - Color Scheme Explorer (GUI Application). 
 - [commode](https://github.com/fantasyui-com/commode) - Electron-Vue based, iTunes like UI, for file tagging, restructuring, processing, and general management. 
 - [container-generator](https://github.com/fantasyui-com/container-generator) - Bootstrap Container Generator. 
@@ -497,6 +507,7 @@
 - [spacers](https://github.com/fantasyui-com/spacers) - Lightweight CSS spacing classes inspired by bootstrap generated with precss. 
 - [spqr](https://github.com/fantasyui-com/spqr) - Webpage Design Generator. 
 - [squirm](https://github.com/fantasyui-com/squirm) - CSS Color Processing Library. 
+- [synthwave](https://github.com/fantasyui-com/synthwave) - Simple and beautiful synthwave background collection.
 - [theft](https://github.com/fantasyui-com/theft) - Means of transporting CSS rule declarations from one file to another. 
 - [uid-files](https://github.com/fantasyui-com/uid-files) - Recursively move files renaming them to a unique id in the process. 
 - [ultrasonic](https://github.com/fantasyui-com/ultrasonic) - A collection of outstanding sound samples extracted from sonic-pi project and made compatible with npm modules for use with node. 

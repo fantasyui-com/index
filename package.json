@@ -1,11 +1,12 @@
 {
+  "private": true,
   "name": "index",
   "version": "2.0.0",
   "description": "Index Of fantasyui-com Repositories on github",
   "main": "index.js",
   "scripts": {
     "build": "./build.js > README.md",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update": "npm run build && git add .; git commit -m \"Index Updates\"; npm version minor; git push;"
   },
   "repository": {
     "type": "git",
