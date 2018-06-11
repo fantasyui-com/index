@@ -77,6 +77,7 @@
 - [aquarium](https://github.com/fantasyui-com/aquarium) - A simple proportional value distribution library aimed at performing probability driven experiments in an enclosed virtual space by means of virtual objects and user defined uncertainty. 
 - [decrement](https://github.com/fantasyui-com/decrement) - Auto decrement value at preset rate. 
 - [diff-css](https://github.com/fantasyui-com/diff-css) - Command to compare two CSS files and list changes. 
+- [distr](https://github.com/fantasyui-com/distr) - Smartly change src path to dist path, for use in small build systems. 
 - [ls-html](https://github.com/fantasyui-com/ls-html) - List information about HTML file. 
 - [oneof](https://github.com/fantasyui-com/oneof) - Return a random item from a list. 
 
@@ -308,6 +309,7 @@
 - [data-url-to-file](https://github.com/fantasyui-com/data-url-to-file) - Save arbitrary dataURL (data URI) to a file, with mime support and standard node callback. 
 - [decrement](https://github.com/fantasyui-com/decrement) - Auto decrement value at preset rate. 
 - [diff-css](https://github.com/fantasyui-com/diff-css) - Command to compare two CSS files and list changes. 
+- [distr](https://github.com/fantasyui-com/distr) - Smartly change src path to dist path, for use in small build systems. 
 - [giblet](https://github.com/fantasyui-com/giblet) - General purpose event based synchronized sound emitter. 
 - [list-css-classes](https://github.com/fantasyui-com/list-css-classes) - Node npm module used to parse a CSS string and list the CSS classes defined inside. 
 - [ls-html](https://github.com/fantasyui-com/ls-html) - List information about HTML file. 
@@ -330,11 +332,9 @@
 
 ## Multiprocess
 - [multiprocess-store](https://github.com/fantasyui-com/multiprocess-store) - ES6-and-beyond multiprocess-safe file-system-based object-store. 
-- [und](https://github.com/fantasyui-com/und) - Multiprocess safe file save. Don't just save files, that will cause errors. Rather, create a directory named after the file, and store UUID named writes within it. 
 
 ## Multiprocess Database
 - [multiprocess-store](https://github.com/fantasyui-com/multiprocess-store) - ES6-and-beyond multiprocess-safe file-system-based object-store. 
-- [und](https://github.com/fantasyui-com/und) - Multiprocess safe file save. Don't just save files, that will cause errors. Rather, create a directory named after the file, and store UUID named writes within it. 
 
 ## Music
 - [beatnik](https://github.com/fantasyui-com/beatnik) - Flexible Musical Beat Stream Generator. 
@@ -356,7 +356,6 @@
 ## Object Database
 - [multiprocess-store](https://github.com/fantasyui-com/multiprocess-store) - ES6-and-beyond multiprocess-safe file-system-based object-store. 
 - [product-catalog](https://github.com/fantasyui-com/product-catalog) - Efficient lodash backed, package.json formatted digital downloads product-catalog with minimal requirements and maintenance. 
-- [und](https://github.com/fantasyui-com/und) - Multiprocess safe file save. Don't just save files, that will cause errors. Rather, create a directory named after the file, and store UUID named writes within it. 
 
 ## Ping
 - [bonsoir](https://github.com/fantasyui-com/bonsoir) - Node based server status program. 
@@ -414,6 +413,7 @@
 - [online-marketplace](https://github.com/fantasyui-com/online-marketplace) - Simple online marketplace for selling files. 
 
 ## Standard Library
+- [distr](https://github.com/fantasyui-com/distr) - Smartly change src path to dist path, for use in small build systems. 
 - [oneof](https://github.com/fantasyui-com/oneof) - Return a random item from a list. 
 
 ## UI
@@ -499,6 +499,7 @@
 - [dboard](https://github.com/fantasyui-com/dboard) - GraphQL Dashboard Data Server 
 - [decrement](https://github.com/fantasyui-com/decrement) - Auto decrement value at preset rate. 
 - [diff-css](https://github.com/fantasyui-com/diff-css) - Command to compare two CSS files and list changes. 
+- [distr](https://github.com/fantasyui-com/distr) - Smartly change src path to dist path, for use in small build systems. 
 - [epx](https://github.com/fantasyui-com/epx) - Electron Package Execute (npx but for electron apps). 
 - [event-server](https://github.com/fantasyui-com/event-server) - Serve node EventEmitter events over networks. 
 - [food-delivery](https://github.com/fantasyui-com/food-delivery) - Massively Distributed Food Delivery Service Framework, 
@@ -554,5 +555,4 @@
 - [theft](https://github.com/fantasyui-com/theft) - Means of transporting CSS rule declarations from one file to another. 
 - [uid-files](https://github.com/fantasyui-com/uid-files) - Recursively move files renaming them to a unique id in the process. 
 - [ultrasonic](https://github.com/fantasyui-com/ultrasonic) - A collection of outstanding sound samples extracted from sonic-pi project and made compatible with npm modules for use with node. 
-- [und](https://github.com/fantasyui-com/und) - Multiprocess safe file save. Don't just save files, that will cause errors. Rather, create a directory named after the file, and store UUID named writes within it. 
 
