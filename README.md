@@ -22,6 +22,7 @@
 - [Catalog](#catalog)
 - [Code Generator](#code-generator)
 - [Crypto](#crypto)
+- [Custom Build System](#custom-build-system)
 - [DRM](#drm)
 - [Dashboard](#dashboard)
 - [Data Faker](#data-faker)
@@ -221,6 +222,9 @@
 
 ## Crypto
 - [certification](https://github.com/fantasyui-com/certification) - Stateless Ownership of Digital Goods. Upon a product purchase user is given encrypted tamper-proof certificate that can be used to download/re-download the product.zip. 
+
+## Custom Build System
+- [aficionado](https://github.com/fantasyui-com/aficionado) - CSS class explorer and preview UI aimed at CSS-gradient backgrounds. 
 
 ## DRM
 - [certification](https://github.com/fantasyui-com/certification) - Stateless Ownership of Digital Goods. Upon a product purchase user is given encrypted tamper-proof certificate that can be used to download/re-download the product.zip. 
