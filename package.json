@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "index",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Index Of fantasyui-com Repositories on github",
   "main": "index.js",
   "scripts": {
